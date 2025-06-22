@@ -1,0 +1,1010 @@
+{
+	"journals": [
+		{
+			"field": "Aerospace Engineering",
+			"domains": [
+				"aiaa.org",
+				"arc.aiaa.org",
+				"aerospace-technology.com",
+				"flightglobal.com",
+				"aviationweek.com",
+				"spacenews.com",
+				"nasa.gov",
+				"esa.int",
+				"aviation.org",
+				"aerospace-america.aiaa.org"
+			]
+		},
+		{
+			"field": "Biomedical Engineering",
+			"domains": [
+				"bmes.org",
+				"ieee.org",
+				"nature.com",
+				"sciencedirect.com",
+				"pubmed.ncbi.nlm.nih.gov",
+				"biomedcentral.com",
+				"frontiersin.org",
+				"mdpi.com",
+				"springer.com",
+				"elsevier.com"
+			]
+		},
+		{
+			"field": "Chemical Engineering",
+			"domains": [
+				"aiche.org",
+				"chemengonline.com",
+				"processengineering.thechemicalengineer.com",
+				"chemicalprocessing.com",
+				"icheme.org",
+				"rsc.org",
+				"acs.org",
+				"sciencedirect.com",
+				"wiley.com",
+				"springer.com"
+			]
+		},
+		{
+			"field": "Civil Engineering",
+			"domains": [
+				"asce.org",
+				"ice.org.uk",
+				"constructionweekonline.com",
+				"enr.com",
+				"civilengineer.com",
+				"constructionnews.co.uk",
+				"newcivilengineer.com",
+				"constructiondive.com",
+				"constructionequipment.com",
+				"infrastructureusa.org"
+			]
+		},
+		{
+			"field": "Computer Engineering",
+			"domains": [
+				"ieee.org",
+				"computer.org",
+				"acm.org",
+				"techcrunch.com",
+				"wired.com",
+				"spectrum.ieee.org",
+				"computerworld.com",
+				"infoworld.com",
+				"eetimes.com",
+				"embedded.com"
+			]
+		},
+		{
+			"field": "Electrical Engineering",
+			"domains": [
+				"ieee.org",
+				"ieeexplore.ieee.org",
+				"eetimes.com",
+				"electronicdesign.com",
+				"power-eng.com",
+				"powerelectronics.com",
+				"electroniccircuitsworld.com",
+				"electronicsforu.com",
+				"electronicproducts.com",
+				"edntaiwan.com"
+			]
+		},
+		{
+			"field": "Environmental Engineering",
+			"domains": [
+				"awwa.org",
+				"wef.org",
+				"aeesp.org",
+				"environmentalleader.com",
+				"watertechonline.com",
+				"wastewater.com",
+				"wateronline.com",
+				"environmentalprotection.com",
+				"environmentalscience.org",
+				"epa.gov"
+			]
+		},
+		{
+			"field": "Industrial Engineering",
+			"domains": [
+				"iise.org",
+				"iienet.org",
+				"industrialengineer.com",
+				"qualitydigest.com",
+				"manufacturingnews.com",
+				"industryweek.com",
+				"plantengineering.com",
+				"assemblymag.com",
+				"automationworld.com",
+				"reliableplant.com"
+			]
+		},
+		{
+			"field": "Materials Engineering",
+			"domains": [
+				"tms.org",
+				"asminternational.org",
+				"mrs.org",
+				"materialstoday.com",
+				"materialsperformance.com",
+				"advancedsciencenews.com",
+				"nature.com",
+				"springer.com",
+				"materialsresearchsociety.org",
+				"compositesworld.com"
+			]
+		},
+		{
+			"field": "Mechanical Engineering",
+			"domains": [
+				"asme.org",
+				"machinedesign.com",
+				"mechanicalengineering.com",
+				"designnews.com",
+				"engineeringnews.co.za",
+				"memagazine.org",
+				"powertransmission.com",
+				"manufacturingnet.com",
+				"engineersedge.com",
+				"thomasnet.com"
+			]
+		},
+		{
+			"field": "Software Engineering",
+			"domains": [
+				"acm.org",
+				"ieee.org",
+				"stackoverflow.com",
+				"github.com",
+				"infoq.com",
+				"techcrunch.com",
+				"zdnet.com",
+				"developer.com",
+				"softwareengineering.stackexchange.com",
+				"martinfowler.com"
+			]
+		},
+		{
+			"field": "Computer Science",
+			"domains": [
+				"acm.org",
+				"ieee.org",
+				"arxiv.org",
+				"dblp.org",
+				"semanticscholar.org",
+				"dl.acm.org",
+				"computer.org",
+				"cacm.acm.org",
+				"springer.com",
+				"sciencedirect.com"
+			]
+		},
+		{
+			"field": "Information Technology",
+			"domains": [
+				"computerworld.com",
+				"infoworld.com",
+				"zdnet.com",
+				"techrepublic.com",
+				"itpro.co.uk",
+				"cio.com",
+				"networkworld.com",
+				"informationweek.com",
+				"itworld.com",
+				"techcrunch.com"
+			]
+		},
+		{
+			"field": "Data Science",
+			"domains": [
+				"kdnuggets.com",
+				"towardsdatascience.com",
+				"datasciencecentral.com",
+				"analyticsvidhya.com",
+				"machinelearningmastery.com",
+				"datascience.com",
+				"r-bloggers.com",
+				"kaggle.com",
+				"statsmodels.org",
+				"journal.r-project.org"
+			]
+		},
+		{
+			"field": "Cybersecurity",
+			"domains": [
+				"csoonline.com",
+				"darkreading.com",
+				"infosecurity-magazine.com",
+				"securityweek.com",
+				"cybersecuritydive.com",
+				"scmagazine.com",
+				"threatpost.com",
+				"bleepingcomputer.com",
+				"krebsonsecurity.com",
+				"usenix.org"
+			]
+		},
+		{
+			"field": "Artificial Intelligence",
+			"domains": [
+				"ai.googleblog.com",
+				"openai.com",
+				"deepmind.com",
+				"arxiv.org",
+				"aaai.org",
+				"ijcai.org",
+				"venturebeat.com",
+				"mitsloan.mit.edu",
+				"artificialintelligence-news.com",
+				"aimagazine.com"
+			]
+		},
+		{
+			"field": "Bioinformatics",
+			"domains": [
+				"bioinformatics.org",
+				"biomedcentral.com",
+				"nature.com",
+				"plos.org",
+				"genomebiology.biomedcentral.com",
+				"bioconductor.org",
+				"ncbi.nlm.nih.gov",
+				"frontiersin.org",
+				"briefings.oxfordjournals.org",
+				"iscb.org"
+			]
+		},
+		{
+			"field": "Physics",
+			"domains": [
+				"aps.org",
+				"iop.org",
+				"arxiv.org",
+				"physicstoday.scitation.org",
+				"nature.com",
+				"journals.aps.org",
+				"physicsworld.com",
+				"aip.org",
+				"symmetrymagazine.org",
+				"physics.org"
+			]
+		},
+		{
+			"field": "Chemistry",
+			"domains": [
+				"acs.org",
+				"rsc.org",
+				"nature.com",
+				"chemistryworld.com",
+				"chemsoc.org",
+				"iupac.org",
+				"cen.acs.org",
+				"angewandte.org",
+				"sciencedirect.com",
+				"springer.com"
+			]
+		},
+		{
+			"field": "Materials Science",
+			"domains": [
+				"mrs.org",
+				"tms.org",
+				"nature.com",
+				"materialstoday.com",
+				"asminternational.org",
+				"springer.com",
+				"advancedsciencenews.com",
+				"materialsresearchsociety.org",
+				"sciencedirect.com",
+				"iop.org"
+			]
+		},
+		{
+			"field": "Mathematics",
+			"domains": [
+				"ams.org",
+				"mathscinet.ams.org",
+				"arxiv.org",
+				"springer.com",
+				"cambridge.org",
+				"siam.org",
+				"ems-ph.org",
+				"mathworld.wolfram.com",
+				"plus.maths.org",
+				"notices.ams.org"
+			]
+		},
+		{
+			"field": "Statistics",
+			"domains": [
+				"amstat.org",
+				"rss.org.uk",
+				"isi-web.org",
+				"r-project.org",
+				"tandfonline.com",
+				"jstor.org",
+				"springer.com",
+				"wiley.com",
+				"statsmodels.org",
+				"significance.org.uk"
+			]
+		},
+		{
+			"field": "Astrophysics",
+			"domains": [
+				"aas.org",
+				"arxiv.org",
+				"nasa.gov",
+				"eso.org",
+				"iau.org",
+				"skyandtelescope.org",
+				"astronomy.com",
+				"space.com",
+				"universetoday.com",
+				"spacenews.com"
+			]
+		},
+		{
+			"field": "Biology",
+			"domains": [
+				"biology.org",
+				"nature.com",
+				"cell.com",
+				"currentbiology.com",
+				"plos.org",
+				"jeb.biologists.org",
+				"bmcbiol.biomedcentral.com",
+				"frontiersin.org",
+				"royalsocietypublishing.org",
+				"sciencedirect.com"
+			]
+		},
+		{
+			"field": "Biochemistry",
+			"domains": [
+				"asbmb.org",
+				"jbc.org",
+				"biochemj.org",
+				"nature.com",
+				"pnas.org",
+				"biochemistry.org",
+				"portlandpress.com",
+				"springer.com",
+				"sciencedirect.com",
+				"wiley.com"
+			]
+		},
+		{
+			"field": "Biotechnology",
+			"domains": [
+				"nature.com",
+				"biotechniques.com",
+				"bioworld.com",
+				"genengnews.com",
+				"fiercebiotech.com",
+				"bio.org",
+				"biotechnologynews.com",
+				"biospace.com",
+				"xconomy.com",
+				"labiotech.eu"
+			]
+		},
+		{
+			"field": "Genetics",
+			"domains": [
+				"genetics-gsa.org",
+				"ashg.org",
+				"nature.com",
+				"genome.org",
+				"plosgenetics.org",
+				"genomebiology.biomedcentral.com",
+				"cell.com",
+				"journals.plos.org",
+				"genomemedicine.biomedcentral.com",
+				"frontiersin.org"
+			]
+		},
+		{
+			"field": "Microbiology",
+			"domains": [
+				"asm.org",
+				"nature.com",
+				"appliedmicrobiology.org",
+				"microbiologyresearch.org",
+				"mbio.asm.org",
+				"frontiersin.org",
+				"microbiome.biomedcentral.com",
+				"currentopinion.com",
+				"springer.com",
+				"wiley.com"
+			]
+		},
+		{
+			"field": "Neuroscience",
+			"domains": [
+				"sfn.org",
+				"nature.com",
+				"neuron.org",
+				"jneurosci.org",
+				"nature.com",
+				"frontiersin.org",
+				"brainfacts.org",
+				"dana.org",
+				"alzforum.org",
+				"neurosciencenews.com"
+			]
+		},
+		{
+			"field": "Medicine",
+			"domains": [
+				"nejm.org",
+				"thelancet.com",
+				"jamanetwork.com",
+				"bmj.com",
+				"nature.com",
+				"ama-assn.org",
+				"annals.org",
+				"acponline.org",
+				"medscape.com",
+				"medpagetoday.com"
+			]
+		},
+		{
+			"field": "Dentistry",
+			"domains": [
+				"ada.org",
+				"jada.ada.org",
+				"dentaleconomics.com",
+				"dentistry.co.uk",
+				"dentalcare.com",
+				"rdhmag.com",
+				"dentalproductsreport.com",
+				"dentistrytoday.com",
+				"compendium.com",
+				"aaom.org"
+			]
+		},
+		{
+			"field": "Pharmacy",
+			"domains": [
+				"pharmacist.com",
+				"ashp.org",
+				"accp.com",
+				"pharmacytimes.com",
+				"drugtopics.com",
+				"uspharmacist.com",
+				"pharmaceutical-journal.com",
+				"ajhp.org",
+				"cpj.ca",
+				"pharmacytoday.org"
+			]
+		},
+		{
+			"field": "Nursing",
+			"domains": [
+				"nursingworld.org",
+				"ajn.org",
+				"nursingtimes.net",
+				"nurse.com",
+				"allnurses.com",
+				"onlinejournalofnursing.com",
+				"nursingcenter.com",
+				"nurseleader.com",
+				"americannursetoday.com",
+				"minoritynurse.com"
+			]
+		},
+		{
+			"field": "Public Health",
+			"domains": [
+				"apha.org",
+				"cdc.gov",
+				"who.int",
+				"ajph.aphapublications.org",
+				"publichealth.org",
+				"jhsph.edu",
+				"healthaffairs.org",
+				"thelancet.com",
+				"bmcpublichealth.biomedcentral.com",
+				"frontiersin.org"
+			]
+		},
+		{
+			"field": "Veterinary Medicine",
+			"domains": [
+				"avma.org",
+				"javma.avma.org",
+				"vetmed.iastate.edu",
+				"veterinarypracticenews.com",
+				"dvm360.com",
+				"veterinaryteambrief.com",
+				"todaysveterinarypractice.com",
+				"veterinaryrecord.bmj.com",
+				"frontiersin.org",
+				"vcahospitals.com"
+			]
+		},
+		{
+			"field": "Business Administration",
+			"domains": [
+				"hbr.org",
+				"sloanreview.mit.edu",
+				"strategy-business.com",
+				"mckinsey.com",
+				"bcg.com",
+				"bain.com",
+				"businessweek.com",
+				"fortune.com",
+				"fastcompany.com",
+				"inc.com"
+			]
+		},
+		{
+			"field": "Economics",
+			"domains": [
+				"aeaweb.org",
+				"nber.org",
+				"jstor.org",
+				"econpapers.repec.org",
+				"ideas.repec.org",
+				"economist.com",
+				"brookings.edu",
+				"imf.org",
+				"worldbank.org",
+				"federalreserve.gov"
+			]
+		},
+		{
+			"field": "Finance",
+			"domains": [
+				"cfainstitute.org",
+				"wsj.com",
+				"ft.com",
+				"bloomberg.com",
+				"reuters.com",
+				"investopedia.com",
+				"morningstar.com",
+				"marketwatch.com",
+				"financialplanningmagazine.com",
+				"investmentnews.com"
+			]
+		},
+		{
+			"field": "Accounting",
+			"domains": [
+				"aicpa.org",
+				"journalofaccountancy.com",
+				"accountingtoday.com",
+				"ifac.org",
+				"iasb.org",
+				"pcaobus.org",
+				"cpajournal.com",
+				"accountingweb.com",
+				"fasb.org",
+				"gao.gov"
+			]
+		},
+		{
+			"field": "Marketing",
+			"domains": [
+				"ama.org",
+				"marketingland.com",
+				"adage.com",
+				"marketingprofs.com",
+				"contentmarketinginstitute.com",
+				"hubspot.com",
+				"searchengineland.com",
+				"socialmediaexaminer.com",
+				"marketingweek.com",
+				"campaignlive.com"
+			]
+		},
+		{
+			"field": "Management",
+			"domains": [
+				"aom.org",
+				"managementjournal.net",
+				"hbr.org",
+				"shrm.org",
+				"chiefexecutive.net",
+				"strategy-business.com",
+				"executiveboard.com",
+				"sloanreview.mit.edu",
+				"gallup.com",
+				"deloitte.com"
+			]
+		},
+		{
+			"field": "Psychology",
+			"domains": [
+				"apa.org",
+				"psychologytoday.com",
+				"psycnet.apa.org",
+				"nature.com",
+				"frontiersin.org",
+				"springer.com",
+				"bps.org.uk",
+				"psychcentral.com",
+				"verywellmind.com",
+				"psychologicalscience.org"
+			]
+		},
+		{
+			"field": "Sociology",
+			"domains": [
+				"asanet.org",
+				"sociopub.org",
+				"journals.sagepub.com",
+				"springer.com",
+				"wiley.com",
+				"theconversation.com",
+				"contexts.org",
+				"sociologycompass.com",
+				"thesocietypages.org",
+				"everydaysociologyblog.com"
+			]
+		},
+		{
+			"field": "Political Science",
+			"domains": [
+				"apsanet.org",
+				"cambridge.org",
+				"politico.com",
+				"fivethirtyeight.com",
+				"brookings.edu",
+				"cfr.org",
+				"foreignaffairs.com",
+				"washingtonpost.com",
+				"realclearpolitics.com",
+				"thehill.com"
+			]
+		},
+		{
+			"field": "International Relations",
+			"domains": [
+				"isanet.org",
+				"foreignaffairs.com",
+				"cfr.org",
+				"fpri.org",
+				"csis.org",
+				"chathamhouse.org",
+				"foreignpolicy.com",
+				"diplom.org",
+				"cambridge.org",
+				"tandfonline.com"
+			]
+		},
+		{
+			"field": "Anthropology",
+			"domains": [
+				"americananthro.org",
+				"aaanet.org",
+				"current-anthropology.org",
+				"nature.com",
+				"wiley.com",
+				"springer.com",
+				"sapiens.org",
+				"livinganthropologically.com",
+				"anthropology-news.org",
+				"culturalanthropology.org"
+			]
+		},
+		{
+			"field": "Geography",
+			"domains": [
+				"aag.org",
+				"rgs.org",
+				"nationalgeographic.com",
+				"geographynetwork.org",
+				"nature.com",
+				"springer.com",
+				"tandfonline.com",
+				"geosociety.org",
+				"geography.org.uk",
+				"annals.org"
+			]
+		},
+		{
+			"field": "Geology",
+			"domains": [
+				"geosociety.org",
+				"usgs.gov",
+				"geology.com",
+				"aapg.org",
+				"seg.org",
+				"nature.com",
+				"springer.com",
+				"geologypage.com",
+				"earthmagazine.org",
+				"geoexpro.com"
+			]
+		},
+		{
+			"field": "Environmental Science",
+			"domains": [
+				"epa.gov",
+				"nature.com",
+				"environmentalscience.org",
+				"environmentandecology.com",
+				"environmentalleader.com",
+				"environmentalresearchweb.org",
+				"springer.com",
+				"frontiersin.org",
+				"sciencedirect.com",
+				"elsevier.com"
+			]
+		},
+		{
+			"field": "Meteorology",
+			"domains": [
+				"ametsoc.org",
+				"weather.gov",
+				"noaa.gov",
+				"weatherunderground.com",
+				"weather.com",
+				"accuweather.com",
+				"rmets.org",
+				"wmo.int",
+				"journals.ametsoc.org",
+				"weatherwise.org"
+			]
+		},
+		{
+			"field": "Oceanography",
+			"domains": [
+				"tos.org",
+				"noaa.gov",
+				"whoi.edu",
+				"scripps.ucsd.edu",
+				"ocean.si.edu",
+				"oceanexplorer.noaa.gov",
+				"frontiersin.org",
+				"nature.com",
+				"springer.com",
+				"sciencedirect.com"
+			]
+		},
+		{
+			"field": "Agriculture",
+			"domains": [
+				"usda.gov",
+				"fao.org",
+				"agronomy.org",
+				"crops.org",
+				"extension.org",
+				"plantphysiology.org",
+				"journals.plos.org",
+				"frontiersin.org",
+				"springer.com",
+				"sciencedirect.com"
+			]
+		},
+		{
+			"field": "Food Science",
+			"domains": [
+				"ift.org",
+				"fda.gov",
+				"foodsafety.gov",
+				"journals.asm.org",
+				"foodandfunction.rsc.org",
+				"jfoodeng.com",
+				"lwt.eu",
+				"springer.com",
+				"sciencedirect.com",
+				"frontiersin.org"
+			]
+		},
+		{
+			"field": "Forestry",
+			"domains": [
+				"fs.usda.gov",
+				"forestry.org",
+				"iufro.org",
+				"treephysiology.org",
+				"forestecosys.springeropen.com",
+				"forestpolicy.org",
+				"cdnsciencepub.com",
+				"link.springer.com",
+				"frontiersin.org",
+				"sciencedirect.com"
+			]
+		},
+		{
+			"field": "Architecture",
+			"domains": [
+				"aia.org",
+				"riba.org",
+				"architecturalreview.com",
+				"dezeen.com",
+				"archdaily.com",
+				"journals.sagepub.com",
+				"tandfonline.com",
+				"springer.com",
+				"frontiersin.org",
+				"sciencedirect.com"
+			]
+		},
+		{
+			"field": "Art and Design",
+			"domains": [
+				"aiga.org",
+				"collegeart.org",
+				"artforum.com",
+				"frieze.com",
+				"designboom.com",
+				"tandfonline.com",
+				"journals.sagepub.com",
+				"springer.com",
+				"frontiersin.org",
+				"sciencedirect.com"
+			]
+		},
+		{
+			"field": "Music",
+			"domains": [
+				"musicology.org",
+				"ams-net.org",
+				"jstor.org",
+				"cambridge.org",
+				"mtosmt.org",
+				"tandfonline.com",
+				"springer.com",
+				"frontiersin.org",
+				"sciencedirect.com",
+				"pitchfork.com"
+			]
+		},
+		{
+			"field": "Literature",
+			"domains": [
+				"mla.org",
+				"jstor.org",
+				"cambridge.org",
+				"press.jhu.edu",
+				"tandfonline.com",
+				"springer.com",
+				"frontiersin.org",
+				"sciencedirect.com",
+				"lareviewofbooks.org",
+				"theparisreview.org"
+			]
+		},
+		{
+			"field": "History",
+			"domains": [
+				"historians.org",
+				"jstor.org",
+				"cambridge.org",
+				"oxford.com",
+				"tandfonline.com",
+				"springer.com",
+				"frontiersin.org",
+				"sciencedirect.com",
+				"smithsonianmag.com",
+				"historytoday.com"
+			]
+		},
+		{
+			"field": "Philosophy",
+			"domains": [
+				"apaonline.org",
+				"jstor.org",
+				"cambridge.org",
+				"oxford.com",
+				"tandfonline.com",
+				"springer.com",
+				"frontiersin.org",
+				"sciencedirect.com",
+				"philosophynow.org",
+				"plato.stanford.edu"
+			]
+		},
+		{
+			"field": "Education",
+			"domains": [
+				"ed.gov",
+				"nea.org",
+				"aera.net",
+				"ascd.org",
+				"journals.sagepub.com",
+				"tandfonline.com",
+				"springer.com",
+				"frontiersin.org",
+				"sciencedirect.com",
+				"edweek.org"
+			]
+		},
+		{
+			"field": "Law",
+			"domains": [
+				"americanbar.org",
+				"law.cornell.edu",
+				"jstor.org",
+				"yalelawjournal.org",
+				"stanfordlawreview.org",
+				"tandfonline.com",
+				"springer.com",
+				"cambridge.org",
+				"sciencedirect.com",
+				"lawfareblog.com"
+			]
+		},
+		{
+			"field": "Communications",
+			"domains": [
+				"natcom.org",
+				"icahdq.org",
+				"journals.sagepub.com",
+				"tandfonline.com",
+				"springer.com",
+				"frontiersin.org",
+				"sciencedirect.com",
+				"cambridge.org",
+				"pewresearch.org",
+				"niemanlab.org"
+			]
+		},
+		{
+			"field": "Journalism",
+			"domains": [
+				"spj.org",
+				"poynter.org",
+				"cjr.org",
+				"niemanreports.org",
+				"journals.sagepub.com",
+				"tandfonline.com",
+				"springer.com",
+				"frontiersin.org",
+				"sciencedirect.com",
+				"journalism.org"
+			]
+		}
+	],
+	"additional_general_academic_resources": [
+		"scholar.google.com",
+		"researchgate.net",
+		"academia.edu",
+		"jstor.org",
+		"springer.com",
+		"elsevier.com",
+		"wiley.com",
+		"tandfonline.com",
+		"sage.com",
+		"sciencedirect.com"
+	],
+	"general_news_sources": [
+		"sciencedaily.com",
+		"phys.org",
+		"nature.com",
+		"science.org",
+		"newscientist.com",
+		"technologyreview.com",
+		"spectrum.ieee.org",
+		"engineeringnews.co.za",
+		"designnews.com",
+		"asme.org",
+		"techcrunch.com",
+		"wired.com",
+		"arstechnica.com",
+		"theverge.com",
+		"engadget.com",
+		"venturebeat.com",
+		"slashgear.com",
+		"gizmodo.com",
+		"mashable.com",
+		"technologyreview.com",
+		"wsj.com",
+		"ft.com",
+		"bloomberg.com",
+		"reuters.com",
+		"cnbc.com",
+		"forbes.com",
+		"businessinsider.com",
+		"marketwatch.com",
+		"yahoo.com",
+		"cnn.com",
+		"nytimes.com",
+		"wikipedia.org"
+	]
+}
